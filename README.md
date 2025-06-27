@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/mehrdad-dev/assets/main/logos/cuda.png" height="40" alt="CUDA" />
+<!--   <img src="https://raw.githubusercontent.com/mehrdad-dev/assets/main/logos/cuda.png" height="40" alt="CUDA" /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img width="12" />
