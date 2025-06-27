@@ -35,8 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 </div>
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SahandMas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Ariashakoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ariashakoo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariashakoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
