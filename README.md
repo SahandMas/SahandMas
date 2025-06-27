@@ -1,7 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Sahand Masoudi</h1>
-
-###
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
@@ -10,7 +7,7 @@
   - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
 </p>
 
-###<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -25,12 +22,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xilinx_logo.svg" height="40" alt="Vivado / Vitis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="40" alt="CUDA" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Chip.svg" height="40" alt="Verilog/VHDL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 </div>
-
-###
 
 <h3 align="left">🔥 My GitHub Stats</h3>
 
