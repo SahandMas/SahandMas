@@ -10,8 +10,7 @@
   - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
 </p>
 
-###
-<h3 align="left">🛠 Languages and Tools</h3>
+###<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -22,17 +21,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" height="40" alt="Vivado" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xilinx_logo.svg" height="40" alt="Vivado / Vitis" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vhdl/vhdl-original.svg" height="40" alt="VHDL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" height="40" alt="Verilog" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/Xilinx/Vitis-Tutorials/master/images/vitis-logo.png" height="40" alt="Vitis" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Chip.svg" height="40" alt="Verilog/VHDL" />
 </div>
 
 ###
