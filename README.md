@@ -31,12 +31,9 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm a computer engineering student and systems programmer from Iran 🇮🇷<br><br>
-  - 🔭 I’m currently focused on hardware acceleration, computer architecture, and low-level optimization.<br>
-  - 🧠 Learning advanced topics in compilers, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
-  - 📚 Active contributor in academic projects using tools like Timeloop, Accelergy, and Vivado.<br>
-  - ⚡ I enjoy reverse engineering, algorithm design, and building tools from scratch.<br>
-  - 💬 Let’s talk about performance optimization, SoC design, or neural network accelerators.
+  I'm a computer engineering student from Iran 🇮🇷<br><br>
+  - 🔭 I’m currently focused on hardware acceleration, computer architecture, signal processing, and low-level optimization.<br>
+  - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
 </p>
 
 ###
