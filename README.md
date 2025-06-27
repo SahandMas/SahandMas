@@ -6,7 +6,6 @@
   - 🔭 I’m currently focused on hardware acceleration, computer architecture, signal processing, and low-level optimization.<br>
   - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
 </p>
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
@@ -22,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/CUDA_logo.svg" height="40" alt="CUDA" />
+  <img src="https://raw.githubusercontent.com/mehrdad-dev/assets/main/logos/cuda.png" height="40" alt="CUDA" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img width="12" />
@@ -34,7 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 </div>
-
 <h3 align="left">GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=SahandMas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
