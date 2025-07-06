@@ -11,7 +11,7 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,dart,flutter,javascript,typescript,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,dart,flutter,javascript,typescript,matlab,cuda,vivado&theme=dark" />
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
