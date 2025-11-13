@@ -5,7 +5,7 @@
 <p align="left">
   I'm a computer engineering student from Iran 🇮🇷<br><br>
   - 🔭 I’m currently focused on hardware acceleration, computer architecture, signal processing, and low-level optimization.<br>
-  - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and on-chip memory modeling.<br>
+  - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and RealTime systems design.<br>
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
