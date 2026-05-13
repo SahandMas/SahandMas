@@ -5,14 +5,9 @@
 <p align="left">
 I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
 
-🔭 Currently focused on:
-<ul>
-  <li>Embedded Systems Design</li>
-  <li>Computer Architecture</li>
-  <li>Hardware Acceleration</li>
-  <li>Digital Signal Processing (DSP)</li>
-  <li>Low-Level & Performance-Oriented Programming</li>
-</ul>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;DSP+%7C+FPGA+%7C+CUDA+Developer;Low-Level+%2B+High-Performance+Computing;STM32+%7C+RTOS+%7C+SoC+Design" />
+</p>
 
 📚 Currently learning and exploring:
 <ul>
@@ -46,9 +41,6 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-
-
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ARM%20Cortex-A8A8A8?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" />
@@ -73,10 +65,6 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SahandMas&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4D4D&currStreakLabel=00F5FF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;DSP+%7C+FPGA+%7C+CUDA+Developer;Low-Level+%2B+High-Performance+Computing;STM32+%7C+RTOS+%7C+SoC+Design" />
 </p>
 
 ---
