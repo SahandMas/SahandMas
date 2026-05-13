@@ -4,14 +4,14 @@
 
 <p align="left">
   I'm a computer engineering student from Iran 🇮🇷<br><br>
-  - 🔭 I’m currently focused on hardware acceleration, computer architecture, signal processing, and low-level optimization.<br>
-  - 🧠 Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and RealTime systems design.<br>
+  - 🔭 I’m currently focused on hardware acceleration, computer architecture, embedded systems design, signal processing, and low-level optimization.<br>
+  -  Learning advanced topics in DSP, CUDA programming, Verilog/VHDL, and RealTime systems design.<br>
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,dart,flutter,javascript,typescript,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,rtos,soc,java,html,css,dart,flutter,javascript,typescript&theme=dark" />
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
