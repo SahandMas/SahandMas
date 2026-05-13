@@ -76,7 +76,7 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahandMas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;DSP+%7C+FPGA+%7C+CUDA+Developer;Low-Level+%2B+High-Performance+Computing;STM32+%7C+RTOS+%7C+SoC+Design" />
 </p>
 
 ---
