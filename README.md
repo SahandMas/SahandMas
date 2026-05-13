@@ -76,7 +76,7 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahandMas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahandMas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
 </p>
 
 ---
