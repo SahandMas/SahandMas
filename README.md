@@ -47,9 +47,7 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-</p>
 
-<p align="left">
 
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ARM%20Cortex-A8A8A8?style=for-the-badge&logo=arm&logoColor=white" />
@@ -69,21 +67,21 @@ I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahandMas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahandMas&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F5FF&point=FFFFFF" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahandMas&theme=tokyonight&hide_border=true&layout=compact" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SahandMas&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4D4D&currStreakLabel=00F5FF" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahandMas&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahandMas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
 </p>
 
 ---
 
-<h3 align="left">⚡ Interests</h3>
+<h3 align="left"> Interests</h3>
 
 <p align="left">
 Embedded Systems • DSP • Computer Architecture • FPGA • Hardware Acceleration • CUDA • Real-Time Systems • Low-Level Optimization • HPC
