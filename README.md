@@ -3,7 +3,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a Computer Engineering student from Iran 🇮🇷 <br><br>
+I'm a Computer Engineering student from Iran <br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;DSP+%7C+FPGA+%7C+CUDA+Developer;Low-Level+%2B+High-Performance+Computing;STM32+%7C+RTOS+%7C+SoC+Design" />
