@@ -12,9 +12,9 @@ I'm a Computer Engineering student from Iran <br><br>
 📚 Currently learning and exploring:
 <ul>
   <li>CUDA Programming</li>
-  <li>Verilog / VHDL</li>
-  <li>FPGA & SoC Design</li>
   <li>RTOS & Embedded Linux</li>
+  <li>Verilog / VHDL</li>
+  <li>FPGA & SoC </li>
   <li>High-Performance Computing (HPC)</li>
 </ul>
 </p>
