@@ -42,7 +42,6 @@ I'm a Computer Engineering student from Iran <br><br>
   <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VHDL-1E4C9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SoC-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
