@@ -59,7 +59,7 @@ I'm a Computer Engineering student from Iran <br><br>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SahandMas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true&count_private=true"
-    alt="SahandMas GitHub Stats"
+    src="https://streak-stats.demolab.com?user=SahandMas&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=8B949E&stroke=0D1117"
+    alt="SahandMas GitHub Streak"
   />
 </p>
