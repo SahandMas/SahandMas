@@ -58,5 +58,8 @@ I'm a Computer Engineering student from Iran <br><br>
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahandMas&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F5FF&point=FFFFFF" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SahandMas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true&count_private=true"
+    alt="SahandMas GitHub Stats"
+  />
 </p>
