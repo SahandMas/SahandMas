@@ -15,7 +15,6 @@ I'm a Computer Engineering student from Iran <br><br>
   <li>RTOS & Embedded Linux</li>
   <li>Verilog / VHDL</li>
   <li>FPGA & SoC </li>
-  <li>High-Performance Computing (HPC)</li>
 </ul>
 </p>
 
@@ -32,11 +31,11 @@ I'm a Computer Engineering student from Iran <br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ARM%20Cortex-A8A8A8?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zephyr_RTOS-6F2DA8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/FPGA-5C2D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge" />
@@ -53,13 +52,3 @@ I'm a Computer Engineering student from Iran <br><br>
   
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=SahandMas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true"
-    alt="SahandMas GitHub Stats"
-  />
-</p>
